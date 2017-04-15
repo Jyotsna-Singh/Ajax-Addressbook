@@ -1,0 +1,9 @@
+<?php
+//DB Params
+
+define('DB_HOST', 'localhost');
+define('DB_USER', 'cl27-address');
+define('DB_PASS', '9f/6ne.HC');
+define('DB_NAME', 'cl27-address');
+
+?>
