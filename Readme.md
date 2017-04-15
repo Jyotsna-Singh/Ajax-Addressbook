@@ -1,6 +1,6 @@
 # AJAX Addressbook
 
-This project is a completely custom **Addressbook** application written in PHP along with jQuery and Ajax. Ajax is used to fetch contacts as well as add and edit them.The "Foundation" HTML5 framework has been used for the application's user interface.
+This project is a completely custom **Addressbook** application written in PHP along with jQuery and Ajax. Ajax is used to fetch contacts as well as add and edit them.The "Foundation" HTML5 framework has been used for the application's user interface. Users can view contacts and their details. They can also edit or delete contacts as well as add new contacts.
 
 * Features/Technologies: 
   * Foundation Framework
@@ -14,8 +14,17 @@ This project is a completely custom **Addressbook** application written in PHP a
 ## Live Demo
  [Addressbook](http://jyotsna-singh-com.stackstaging.com/projects/php/Addressbook)
 
-## Usage
-  Users can view contacts and their details. They can also edit or delete contacts as well as add new contacts.
+## Snapshots
+
+**Home - View All Contacts** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/Ajax-Addressbook/blob/master/img/home.PNG)   |
+ 
+ 
+**Add Contact** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/Ajax-Addressbook/blob/master/img/add.PNG)   |
+ 
 
 ## Vendors
 jQuery - [http://jquery.com](http://jquery.com)  
