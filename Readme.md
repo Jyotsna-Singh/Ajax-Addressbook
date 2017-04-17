@@ -11,8 +11,8 @@ This project is a completely custom **Addressbook** application written in PHP a
 ## Version
 1.0.0
 
-## Live Demo
- [Addressbook](http://jyotsna-singh-com.stackstaging.com/projects/php/Addressbook)
+## Live Demo - AddressBook
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/blue-button.PNG)](http://jyotsnasingh.com/projects/php/Addressbook/)
 
 ## Snapshots
 
